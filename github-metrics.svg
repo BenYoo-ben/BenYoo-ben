@@ -2316,7 +2316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libsndfile/libsndfile</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A C library for reading and writing sound files containing sampled audio data.</div>
@@ -2369,7 +2369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jlevy/the-art-of-command-line</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Master the command line, in one page</div>
@@ -2507,7 +2507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2023, 09:51:44 (timezone Asia/Seoul) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 11 Jan 2023, 11:15:14 (timezone Asia/Seoul) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
