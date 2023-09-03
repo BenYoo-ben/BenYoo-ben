@@ -2305,6 +2305,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2326,7 +2331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gabime/spdlog</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast C++ logging library.</div>
@@ -2379,7 +2384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lucavallin/barco</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linux containers from scratch in C.</div>
@@ -2432,7 +2437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ninenines/cowboy</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small, fast, modern HTTP server for Erlang/OTP.</div>
@@ -2535,7 +2540,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2023, 09:48:14 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Sept 2023, 09:52:58 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
